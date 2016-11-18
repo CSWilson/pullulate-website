@@ -1,0 +1,18 @@
+body {
+  background-color: #5c4084;
+  padding: 50px;
+}
+.container {
+  background-color: #fff;
+  padding: 25px 80px;
+  border-radius: 8px;
+  text-align: center;
+}
+.container h1 {
+  color: #999;
+}
+.logo {
+  margin: 0px auto 50px auto;
+  display: block;
+  width: 500px;
+}
